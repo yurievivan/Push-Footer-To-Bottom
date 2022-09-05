@@ -21,7 +21,7 @@
    </code>
 </pre>
 <p><b>Source: </b><a href="https://github.com/yurievivan/Push-Footer-To-Bottom/blob/main/First%20Way/CSS/style.css">First Way/CSS/style.css</a>.</p>
-<p><b>View: </b><a href="https://htmlpreview.github.io/?https://github.com/yurievivan/Push-Footer-To-Bottom/blob/main/First%20Way/index.html">Second Way</a>.</p>
+<p><b>View: </b><a href="https://htmlpreview.github.io/?https://github.com/yurievivan/Push-Footer-To-Bottom/blob/main/First%20Way/index.html">First Way</a>.</p>
 <hr>
 <h3>2. With Only Flexbox</h3>
 <p><b>2.1.</b> For the "page" class, we add everything the same as for the first way.</p> <pre>
